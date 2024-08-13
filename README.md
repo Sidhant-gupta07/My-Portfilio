@@ -76,7 +76,7 @@ Add screenshots of your portfolio here to give users a preview of what to expect
 Feel free to reach out if you have any questions or suggestions:
 
 - **Email**: [your.email@example.com](sidhantgupta5159@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sidhant gupta]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sidhant-gupta-2543b2237/))
+- **LinkedIn**: [linkedin.com/in/sidhant gupta]([https://www.linkedin.com/in/sidhant-gupta-2543b2237/])
 - **GitHub**: [github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
 ---
