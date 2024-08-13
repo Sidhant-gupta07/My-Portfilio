@@ -87,5 +87,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 If you have any questions or feedback, feel free to reach out to me:
 
-Email: sidhantgupta5159@gmail.com
+Email: your-email@example.com
 LinkedIn: Your LinkedIn Profile
