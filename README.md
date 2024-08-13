@@ -55,10 +55,10 @@ To run this project locally, follow these steps:
 
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 
-Your portfolio should now be running on `http://localhost:3000`.
+Your portfolio should now be running on `http://localhost:5173`.
 
 ## Usage
 
@@ -71,17 +71,13 @@ Add screenshots of your portfolio here to give users a preview of what to expect
 ![Home Page](path_to_screenshot.png)
 ![Projects Section](path_to_screenshot.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [your.email@example.com](sidhantgupta5159@gmail.com)
+- **LinkedIn**: [linkedin.com/in/sidhant gupta]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sidhant-gupta-2543b2237/))
+- **GitHub**: [github.com/Sidhant-gupta07](https://github.com/Sidhant-gupta07)
 
 ---
 
