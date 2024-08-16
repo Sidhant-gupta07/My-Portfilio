@@ -1,6 +1,6 @@
 import React from "react";
 import Angular from "../../assets/Angular.png";
-import Bootstrap2 from "../../assets/Bootstrap2.png";
+import Bootstrap2 from "../../assets/Bootstrap.png";
 import Css from "../../assets/css.png";
 import Express from "../../assets/express.png";
 import Firebase from "../../assets/firebase.png";
@@ -75,7 +75,7 @@ const Experience = () => {
       id: 9,
       src: tailwind,
       title: "Tailwind",
-      style: "shadow-blue-600",
+      style: "shadow-cyan-500",
     },
     {
       id: 10,
@@ -142,7 +142,7 @@ const Experience = () => {
   return (
     <>
       <div
-        name="experience"
+        name="Skills"
         className="bg-gradient-to-b from-gray-800 to-black w-full py-8"
       >
         <div
