@@ -69,7 +69,7 @@ You can navigate through the various sections of the portfolio using the navigat
 Add screenshots of your portfolio here to give users a preview of what to expect.
 
 ![Home Page](path_to_screenshot.png)
-![Projects Section](path_to_screenshot.png)
+![Projects Section]("C:\Users\91773\OneDrive\Pictures\Screenshots\Screenshot 2024-08-23 113516.png")
 
 ## Contact
 
