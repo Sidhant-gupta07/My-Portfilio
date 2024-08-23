@@ -64,13 +64,6 @@ Your portfolio should now be running on `http://localhost:5173`.
 
 You can navigate through the various sections of the portfolio using the navigation menu. Each section provides detailed information about my skills, projects, and background. The project links will take you to live demos or GitHub repositories.
 
-## Screenshots
-
-Add screenshots of your portfolio here to give users a preview of what to expect.
-
-![Home Page](path_to_screenshot.png)
-![Projects Section](C:\Users\91773\OneDrive\Pictures\Screenshots\Screenshot 2024-08-23 113516.png)
-
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
