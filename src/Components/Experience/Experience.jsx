@@ -10,7 +10,7 @@ import Html from "../../assets/html.png";
 import Java from "../../assets/java.png";
 import JavaScript from "../../assets/javascript.png";
 import MaterialUI from "../../assets/MaterialUI.png";
-import MongoDB from "../../assets/MongoDB.png";
+import MongoDB from "../../assets/mongoDB.png";
 import nextJS from "../../assets/nextjs.png";
 import Node from "../../assets/node.png";
 import reactImage from "../../assets/react.png";
