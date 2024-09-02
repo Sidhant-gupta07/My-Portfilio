@@ -72,6 +72,12 @@ const Experience = () => {
       style: "shadow-gray-500",
     },
     {
+      id: 8,
+      src: Node,
+      title: "Node.js",
+      style: "shadow-green-500",
+    },
+    {
       id: 9,
       src: tailwind,
       title: "Tailwind",
